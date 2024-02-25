@@ -1,2 +1,2 @@
 markdown
-and 
+and for merge
